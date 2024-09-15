@@ -4,6 +4,10 @@ Returns true if a number is even
 
 ![](https://img.shields.io/badge/test_coverage-100%25-green)
 
+- [x] Make It Work
+- [ ] Make It Right
+- [ ] Make It Fast
+
 ## Usage
 
 ```ts
